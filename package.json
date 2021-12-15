@@ -1,6 +1,6 @@
 {
   "name": "@magef/alternate-hreflang",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "GraphQl component for alternate hreflang module",
   "main": "index.js",
   "scripts": {
