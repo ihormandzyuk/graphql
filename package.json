@@ -1,0 +1,19 @@
+{
+  "name": "@magef/alternate-hreflang",
+  "version": "1.0.0",
+  "description": "GraphQl component for alternate hreflang module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihormandzyuk/graphql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ihormandzyuk/graphql/issues"
+  },
+  "homepage": "https://github.com/ihormandzyuk/graphql#readme"
+}
